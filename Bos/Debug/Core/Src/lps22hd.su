@@ -1,0 +1,7 @@
+lps22hd.c:6:6:BarometerWrite	32	static
+lps22hd.c:14:6:BarometerReadXL	32	static
+lps22hd.c:19:6:BarometerReadL	32	static
+lps22hd.c:24:6:BarometerReadH	32	static
+lps22hd.c:29:6:BarometerInit	8	static
+lps22hd.c:35:6:BarometerReadValues	8	static
+lps22hd.c:46:6:BarometerAltitude	16	static

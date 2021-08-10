@@ -1,0 +1,9 @@
+BMP180.c:13:6:BMP180_Config	16	static
+BMP180.c:18:6:BMP180_Get_Cal	48	static
+BMP180.c:35:6:ZeroPBarometer	32	static
+BMP180.c:68:6:BMP180_Set_TempRaw_Data	32	static
+BMP180.c:74:6:BMP180_Get_TempRaw_Data	32	static
+BMP180.c:81:6:BMP180_Get_True_Data	16	static
+BMP180.c:105:6:BMP180_Set_PressRaw_Data	32	static
+BMP180.c:111:6:BMP180_Get_PressRaw_Data	32	static
+BMP180.c:118:6:BMP180_Get_Altitude	8	static

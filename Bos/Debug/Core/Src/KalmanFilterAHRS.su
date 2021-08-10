@@ -1,0 +1,8 @@
+KalmanFilterAHRS.c:16:6:MatrixMultiplication	40	static
+KalmanFilterAHRS.c:28:6:MatrixPlus	32	static
+KalmanFilterAHRS.c:40:6:UpdateAltitudeStateMatrix	32	static
+KalmanFilterAHRS.c:45:6:UpdateVerVelStateMatrix	32	static
+KalmanFilterAHRS.c:50:6:UpdateAccBiasStateMatrix	16	static
+KalmanFilterAHRS.c:55:6:UpdateStateMatrix	24	static
+KalmanFilterAHRS.c:62:6:UpdatePreStateMatrix	16	static
+KalmanFilterAHRS.c:69:6:UpdateStateCovarianceMatrix	16	static

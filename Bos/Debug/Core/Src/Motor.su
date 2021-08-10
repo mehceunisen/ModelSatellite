@@ -1,0 +1,5 @@
+Motor.c:20:6:InitMotorLib	16	static
+Motor.c:25:6:InitESC	8	static
+Motor.c:32:6:ServoAngleCompute	48	static
+Motor.c:41:6:ServoRotate	16	static
+Motor.c:49:7:DutytoAngle	24	static

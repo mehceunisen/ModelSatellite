@@ -1,0 +1,16 @@
+Quaternion.c:26:6:Quaternion_set	48	static
+Quaternion.c:35:6:Quaternion_setIdentity	16	static
+Quaternion.c:41:6:Quaternion_copy	16	static
+Quaternion.c:46:6:Quaternion_equal	64	static
+Quaternion.c:55:6:Quaternion_fromAxisAngle	32	static
+Quaternion.c:66:8:Quaternion_toAxisAngle	40	static
+Quaternion.c:87:6:Quaternion_fromXRotation	48	static
+Quaternion.c:94:6:Quaternion_fromYRotation	48	static
+Quaternion.c:101:6:Quaternion_fromZRotation	48	static
+Quaternion.c:108:6:Quaternion_fromEulerZYX	72	static
+Quaternion.c:147:6:Quaternion_conjugate	40	static
+Quaternion.c:156:8:Quaternion_norm	24	static
+Quaternion.c:162:6:Quaternion_normalize	48	static
+Quaternion.c:174:6:Quaternion_multiply	64	static
+Quaternion.c:194:6:Quaternion_rotate	136	static
+Quaternion.c:231:6:Quaternion_slerp	120	static

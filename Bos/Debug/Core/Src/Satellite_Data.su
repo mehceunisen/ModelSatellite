@@ -1,0 +1,5 @@
+Satellite_Data.c:11:10:aeskCRCCalculator	24	static
+Satellite_Data.c:24:6:CrateTelemetryPack	16	static
+Satellite_Data.c:47:6:PackageTelemetryPack	24	static
+Satellite_Data.c:77:6:ESP32_Data_Control	32	static
+Satellite_Data.c:179:6:ESP32_Data_Parse	24	static

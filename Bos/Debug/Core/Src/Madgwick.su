@@ -1,0 +1,7 @@
+Madgwick.c:13:6:Madgwick_GyrotoQuaternion	16	static
+Madgwick.c:21:6:Madgwick_QuaternionMulti	24	static
+Madgwick.c:29:6:Madgwick_Integral	16	static
+Madgwick.c:37:6:Madgwick_Sum	16	static
+Madgwick.c:50:6:Madgwick_QuaternionEqualize	16	static
+Madgwick.c:58:6:Madgwick_QuaterniontoEuler	16	static
+Madgwick.c:63:6:Madgwick_Update	8	static

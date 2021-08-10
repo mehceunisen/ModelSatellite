@@ -1,0 +1,4 @@
+Manyometre.c:10:6:ManyometerWrite	32	static
+Manyometre.c:18:6:ManyometerRead	32	static
+Manyometre.c:23:6:ManyometerInit	8	static
+Manyometre.c:30:6:ManyometerReadValue	8	static

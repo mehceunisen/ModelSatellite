@@ -1,0 +1,6 @@
+AESK_UART_STM32.c:9:6:Uart_DMA_Receive_Start	24	static
+AESK_UART_STM32.c:22:9:read_DMA_Buffer	32	static
+AESK_UART_STM32.c:53:6:write_DMA_Buffer	24	static
+AESK_UART_STM32.c:58:6:send_compro_UART_DMA	272	static
+AESK_UART_STM32.c:71:6:HAL_UART_TxCpltCallback	16	static
+AESK_UART_STM32.c:76:19:HAL_UART_DMA_Tx_Stop	24	static
