@@ -1,1 +1,1 @@
-
+lobicilerin anasını sikim
